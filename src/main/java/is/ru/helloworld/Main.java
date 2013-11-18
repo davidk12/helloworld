@@ -1,9 +1,9 @@
-//package is.ru.helloworld;
+package is.ru.helloworld;
 
 import static spark.Spark.*;
 import spark.*;
 
-public class HelloWorld {
+public class Main {
 
    public static void main(String[] args) {
       
