@@ -3,7 +3,7 @@ package is.ru.helloworld;
 import static spark.Spark.*;
 import spark.*;
 
-public static class HelloWorld {
+class HelloWorld {
 
    public static void main(String[] args) {
       
