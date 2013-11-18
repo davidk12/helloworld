@@ -1,4 +1,4 @@
-package is.ru.helloworld;
+package is.ru.HelloWorld;
 
 import static spark.Spark.*;
 import spark.*;
